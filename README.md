@@ -2,8 +2,8 @@
 
 RecipeCost is a small local command-line utility that grows in focused stages.
 
-Current stage: 52
-Latest focus: Capture sync boundary notes
+Current stage: 53
+Latest focus: Add local-first notes
 
 ## Goals
 
